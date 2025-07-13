@@ -4,7 +4,7 @@ This repository reproduces figures from the paper: **On the Stability of Gradien
 
 ## Environment Setup
 
-We suggest using conda
+We suggest using conda to setup the environment and packages 
 
 ```bash
 conda create -n opt_env python=3.10 matplotlib numpy tqdm \
