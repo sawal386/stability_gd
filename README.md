@@ -1,4 +1,4 @@
-# Reproducing Figures for "On the stability of gradient descent with second order dynamics for time-varying cost functions" (TMLR 2025)
+# On the stability of gradient descent with second order dynamics for time-varying cost functions
 
 This repository reproduces figures from the paper: **On the Stability of Gradient Descent with Second Order Dynamics for Time‑Varying Cost Functions**, *TMLR 2025*. (link: https://openreview.net/forum?id=HlzjI2fn2T)
 
